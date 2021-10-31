@@ -18,34 +18,34 @@ Principe / Avantages / Limites / Questions
 
 La **S**ociété **C**ivile de **P**lacement **I**mmobilier :
 
-- Gère un gros parc immobilier et l'augmente en collectant de l'argent auprès d'investisseurs.
-- S'occupe de tout en échange de frais de gestion (= un pourcentage des revenus versés aux associés).
-- Reverse des dividendes mensuels/trimestriels aux investisseurs grâce aux loyers (nets) et aux plus-values.
-- Offre un rendement compris entre 4,5% et 5,5% en moyenne.
+- Gère un **gros** parc immobilier et l'augmente en collectant de l'argent auprès d'investisseurs.
+- **S'occupe de tout** en échange de frais de gestion (= un pourcentage des revenus versés aux associés).
+- Reverse des **dividendes** mensuels/trimestriels aux investisseurs grâce aux loyers (nets) et aux plus-values.
+- Offre un **rendement compris entre 4,5% et 5,5%** en moyenne.
 
 ---
 
 # **Avantages**
 
-- **Dilution du risque de non-paiement des loyers.**
+- **Dilution du risque** de non-paiement des loyers.
 - Différents thèmes : bureaux, commerces, santé, logistique.
 - Pierre papier = **zéro gestion, 100% passif.**
 - Pas de frais de notaire.
-- **Régularité et stabilité des revenus.**
+- **Régularité et stabilité** des revenus.
 - **Investissement finançable à 100%** pour profiter des taux d'intérêt faibles et du levier du crédit.
-- **Préparer la succession.**
+- **Prépare la succession.**
 
 ---
 
 # **Limites**
 
 - Pas son mot à dire dans la gestion.
-- Fiscalité importante en immobilier nu (non meublé).
+- **Fiscalité importante** en immobilier nu (non meublé).
 - Investissement sur le long terme, pas de cashflow rapide.
-- **Bien choisir ses SCPI.**
-- **Frais d'entrée/sortie/gestion à diluer en conservant les parts au minimum 8 ans.**
+- **Bien choisir** ses SCPI.
+- **Frais d'entrée/sortie/gestion à diluer** en conservant les parts au minimum 8 ans.
 - Délai de jouissance.
-- **Dividendes versés sur le compte courant pas réinvestis. Pas d'intérêt composés.**
+- **Dividendes versés sur le compte courant pas réinvestis.** Pas d'intérêt composés.
 
 ---
 
