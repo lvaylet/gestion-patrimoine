@@ -18,17 +18,17 @@ Principe / Avantages / Limites / Questions
 
 La **S**ociété **C**ivile de **P**lacement **I**mmobilier :
 
-- Gère un **gros** parc immobilier et l'augmente en collectant de l'argent auprès d'investisseurs.
-- **S'occupe de tout** en échange de frais de gestion (= un pourcentage des revenus versés aux associés).
-- Reverse des **dividendes** mensuels/trimestriels aux investisseurs grâce aux loyers (nets) et aux plus-values.
-- Offre un **rendement compris entre 4,5% et 5,5%** en moyenne.
+- Gère et augmente un **gros** parc immobilier **tertiaire** en **collectant** de l'argent auprès de **personnes physiques ou morales** qui achètent des **parts**,  **comptant ou à crédit**.
+- **S'occupe de tout** en échange de frais de gestion (12% - 15%).
+- Reverse des **dividendes** aux associés chaque **trimestre** sous forme de **revenus fonciers versés net** de tout frais (hors fiscalité).
+- Offre un **rendement entre 4% et 5%** en moyenne en 2020.
 
 ---
 
 # **Avantages**
 
 - **Dilution du risque** de non-paiement des loyers.
-- Différents thèmes : bureaux, commerces, santé, logistique.
+- Différents thèmes : bureaux, commerces, santé, logistique...
 - Pierre papier = **zéro gestion, 100% passif.**
 - Pas de frais de notaire.
 - **Régularité et stabilité** des revenus.
@@ -39,11 +39,11 @@ La **S**ociété **C**ivile de **P**lacement **I**mmobilier :
 
 # **Limites**
 
-- Pas son mot à dire dans la gestion.
+- Capital pas garanti et liquidité dépend du marché.
 - **Fiscalité importante** en immobilier nu (non meublé).
 - Investissement sur le long terme, pas de cashflow rapide.
 - **Bien choisir** ses SCPI.
-- **Frais d'entrée/sortie/gestion à diluer** en conservant les parts au minimum 8 ans.
+- **Frais d'entrée/sortie/gestion à diluer** en conservant les parts 8 à 10 ans.
 - Délai de jouissance.
 - **Dividendes versés sur le compte courant pas réinvestis.** Pas d'intérêt composés.
 
@@ -51,21 +51,24 @@ La **S**ociété **C**ivile de **P**lacement **I**mmobilier :
 
 # **Cible**
 
-Particuliers qui :
-- n'ont pas beaucoup d'argent de côté.
-- ne sont pas facilement finançables.
-- **ne veulent pas gérer de parc immobilier.**
-- **veulent constituer un patrimoine pour les enfants.**
-- **ont une capacité d'épargne et veulent investir sur le long terme.**
+Particuliers qui veulent :
+- des revenus complémentaires.
+- diversifier leur épargne.
+- **constituer un patrimoine pour les enfants.**
+- *préparer la retraite.
+- investir sur le long terme avec une capacité d'épargne.
+- **investir sans contrainte de gestion d'un parc immobilier.**
+
 
 ---
 
 # **Notes**
 
 - Imposition :
-    - IR : tranche à 30% + 17,2% CSG = 47,2%
-    - IS : Flat Tax à 30%
-- Montage avec démembrement (en nue propriété) possible pour ne pas toucher de loyer pendant quelques années et ne pas être imposé. En échange, parts initiales moins chères.
+    - IR : tranche à 30% + 17,2% CSG = 47,2%.
+    - IS : Flat Tax à 30%.
+- Montage avec démembrement (en nue propriété) possible pour ne pas toucher de loyer pendant quelques années et ne pas être imposé en échange de parts initiales moins chères.
+- Les frais de gestion importants incluent assurance, travaux, provisions pour travaux, taxe foncière, charges courantes, charges de copropriété, publicité, relocation, mise aux normes...
 
 ---
 
