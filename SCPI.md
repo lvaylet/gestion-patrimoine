@@ -55,7 +55,7 @@ Particuliers qui veulent :
 - des revenus complémentaires.
 - diversifier leur épargne.
 - **constituer un patrimoine pour les enfants.**
-- *préparer la retraite.
+- préparer la retraite.
 - investir sur le long terme avec une capacité d'épargne.
 - **investir sans contrainte de gestion d'un parc immobilier.**
 
