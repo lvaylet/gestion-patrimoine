@@ -72,6 +72,25 @@ Particuliers qui veulent :
 
 ---
 
+# **Notes**
+
+- Crédit à 2,4% sur 25 ans proposé seulement par le Crédit Mutuel Arkea pour des investissements locatifs. Les autres banques ne font que 15 ans et bientôt 20 ans.
+- Le conseiller est rémunéré par la maison de gestion à hauteur de 2% de la somme investie. Il touche aussi 300 EUR sur la création de la SCI.
+
+---
+
+# **Cashflow**
+
+- Création de la SCI
+    - 780 EUR de frais + 600 EUR de gestion = 1380 EUR
+- Versements mensuels
+    - Equilibrage des comptes sur le compte-courant de la SCI = 350 EUR
+    - Frais de gestion, comptable = 50 EUR
+    - Compte courant SCI chez Qonto = 10 EUR
+- Attention au délai de jouissance au départ
+
+---
+
 # **Questions**
 
 - Pourquoi une SCI ? Juste Fanny et moi, ou les enfants aussi ?
